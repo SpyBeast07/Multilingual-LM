@@ -1,0 +1,14 @@
+# macOS metadata
+.DS_Store
+
+# Python cache files
+__pycache__/
+
+# Secret environment variables
+.env
+
+# data folder files
+data/*
+
+finetuned_model/
+final_gemma270m_finetuned
