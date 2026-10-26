@@ -19,6 +19,12 @@ A major part of this project was working within real-world limits. All the work 
 
 ---
 
+### Architecture Diagram
+
+![Architecture Diagram](images/archDiagram.png)
+
+---
+
 ## 2. PHASE 1: GETTING DATA READY  
 The base of any good language model is high-quality data. This was the most time-consuming part of the project, involving collecting, cleaning, and organizing a massive amount of text.  
 
